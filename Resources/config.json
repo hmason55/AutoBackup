@@ -1,0 +1,8 @@
+﻿{
+  "MaximumHistory": 10,
+  "UpdateIntervalInMinutes": 0.1,
+  "LastUpdate": "0001-01-01T00:00:00",
+  "TrackedFiles": [
+    "C:/folder/file.txt"
+  ]
+}
